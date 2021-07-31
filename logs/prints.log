@@ -1,0 +1,6 @@
+10:41:07.214 [main] INFO  com.inetbanking.testcases.BaseClass - Submitted
+10:41:07.240 [main] INFO  com.inetbanking.testcases.BaseClass - Title matched
+10:41:14.170 [main] INFO  com.inetbanking.testcases.BaseClass - entered username
+10:41:14.363 [main] INFO  com.inetbanking.testcases.BaseClass - entered password
+10:41:19.050 [main] INFO  com.inetbanking.testcases.BaseClass - adding customer's information
+10:41:30.826 [main] INFO  com.inetbanking.testcases.BaseClass - successful

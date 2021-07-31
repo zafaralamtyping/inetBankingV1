@@ -1,0 +1,7 @@
+21:05:44.338 [main] INFO  com.inetbanking.testcases.BaseClass - Entered username
+21:05:44.433 [main] INFO  com.inetbanking.testcases.BaseClass - Entered password
+21:05:45.370 [main] INFO  com.inetbanking.testcases.BaseClass - Submitted
+21:05:45.379 [main] INFO  com.inetbanking.testcases.BaseClass - Title matched
+21:05:51.188 [main] INFO  com.inetbanking.testcases.BaseClass - entered username
+21:05:51.284 [main] INFO  com.inetbanking.testcases.BaseClass - entered password
+21:05:55.220 [main] INFO  com.inetbanking.testcases.BaseClass - adding customer's information
